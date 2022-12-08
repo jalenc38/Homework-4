@@ -1,3 +1,4 @@
+#Jalen Combong 2038587
 def selection_sort_descend_trace(numbers):
     for i in range(len(numbers) - 1):
         t = i
